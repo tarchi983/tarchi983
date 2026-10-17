@@ -7,32 +7,19 @@ Welcome to my GitHub profile! I am an aspiring software engineer based in Morocc
 
 ### 💻 Technologies & Tools I Use:
 
-#### 🌐 Languages
-![Java](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io)
-
-#### ⚙️ Frameworks & Libraries
-![Spring](https://shields.io) ![Hibernate](https://shields.io) ![Bootstrap](https://shields.io)
-
-#### 🛠️ Tools & Databases
-![Git](https://shields.io) ![GitHub](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io)
+*   **Languages:** Java | HTML5 | CSS3 | JavaScript | SQL
+*   **Frameworks & Libraries:** Spring Boot | Hibernate | Bootstrap
+*   **Tools & Databases:** Git | GitHub | MySQL | PostgreSQL
 
 ---
 
-### 📊 My GitHub Stats:
-<p align="left">
-<img src="https://vercel.app" alt="Oussama's GitHub Stats" height="160px" />
-<img src="https://vercel.app" alt="Top Languages" height="160px" />
-</p>
-
----
-
-### 📈 What I'm Working On:
+### 📊 What I'm Working On:
 - 📚 I’m currently diving deeper into Data Structures, Algorithms, and Software Architecture.
 - 💼 Looking for a second-year internship (PFA) / junior developer opportunities.
 
 ---
 
 ### 📬 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com)
-- 🌐 [My Web Portfolio](https://github.io)
-- 📧 [oussama.tr05@gmail.com](mailto:oussama.tr05@gmail.com)
+- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- 🌐 **Web Portfolio:** [tarchi983.github.io/portfoliolist](https://github.io)
+- 📧 **Email:** [oussama.tr05@gmail.com](mailto:oussama.tr05@gmail.com)

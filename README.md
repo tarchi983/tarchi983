@@ -1,6 +1,6 @@
 # Hi, I'm Tarchi Oussama! 👋
 
-### 🚀 Computer Science Student @ FST Settat
+### 🚀 Computer Science Student @FST Settat
 Welcome to my GitHub profile! I am an aspiring software engineer based in Morocco, focused on backend development, building web applications, and solving complex problems.
 
 ---

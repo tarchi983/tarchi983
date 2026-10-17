@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am an aspiring software engineer based in Morocc
 
 ### 💻 Technologies & Tools I Use:
 - **Languages:** Java, HTML5, CSS3, JavaScript, SQL
-- **Frameworks & Libraries:** *[ Spring Boot, Hibernate, Bootstrap]*
+- **Frameworks & Libraries:** Spring Boot, Hibernate, Bootstrap
 - **Tools & Databases:** Git, GitHub, MySQL / PostgreSQL
 
 ---

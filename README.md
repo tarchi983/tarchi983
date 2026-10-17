@@ -6,9 +6,15 @@ Welcome to my GitHub profile! I am an aspiring software engineer based in Morocc
 ---
 
 ### 💻 Technologies & Tools I Use:
-- 🌐 **Languages:** ![Java](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io)
-- ⚙️ **Frameworks:** ![Spring](https://shields.io) ![Hibernate](https://shields.io) ![Bootstrap](https://shields.io)
-- 🛠️ **Tools & DBs:** ![Git](https://shields.io) ![GitHub](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io)
+
+#### 🌐 Languages
+![Java](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io)
+
+#### ⚙️ Frameworks & Libraries
+![Spring](https://shields.io) ![Hibernate](https://shields.io) ![Bootstrap](https://shields.io)
+
+#### 🛠️ Tools & Databases
+![Git](https://shields.io) ![GitHub](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io)
 
 ---
 

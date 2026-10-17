@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tarchi Oussama! 👋
 
-<!--
-**tarchi983/tarchi983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Science Student @ FST Settat
+Welcome to my GitHub profile! I am an aspiring software engineer based in Morocco, focused on backend development, building web applications, and solving complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Tools I Use:
+- **Languages:** Java, HTML5, CSS3, JavaScript, SQL
+- **Frameworks & Libraries:** *[ Spring Boot, Hibernate, Bootstrap]*
+- **Tools & Databases:** Git, GitHub, MySQL / PostgreSQL
+
+---
+
+### 📊 What I'm Working On:
+- 📚 I’m currently diving deeper into Data Structures, Algorithms, and Software Architecture.
+- 💼 Looking for a second-year internship (PFA) / junior developer opportunities.
+
+
+---
+
+### 📬 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/tarchi-oussama-418274381/)
+- 🌐 [My Web Portfolio]([https://github.io](https://tarchi983.github.io/portfoliolst/)
+- 📧 oussama.tr05@gmail.com

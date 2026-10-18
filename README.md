@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I am an aspiring software engineer based in Morocc
 ---
 
 ### 📬 Let's Connect!
-- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- 🌐 **Web Portfolio:** [tarchi983.github.io/portfoliolist](https://github.io)
+- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/tarchi-oussama-418274381/)
+- 🌐 **Web Portfolio:** [tarchi983.github.io/portfoliolist](https://tarchi983.github.io/portfoliolst/)
 - 📧 **Email:** [oussama.tr05@gmail.com](mailto:oussama.tr05@gmail.com)
